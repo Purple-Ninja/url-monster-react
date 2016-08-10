@@ -9,7 +9,7 @@ var UrlRawInput = React.createClass({
                     className="url"
                     type="text"
                     value={this.props.url.getUrl()}
-                    onchange={handleChange}
+                    onChange={handleChange}
                     />
                 <div>ker</div>
             </div>
