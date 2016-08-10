@@ -1,8 +1,17 @@
 {
   "name": "urlmonster-build-tool",
-  "description": "build tool for urlmonster",
   "version": "2.0.0",
+  "description": "build tool for urlmonster",
   "author": "Chienwen Chen <chienwen@chienwen.net>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purple-Ninja/url-monster-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Purple-Ninja/url-monster-react/issues"
+  },
+  "homepage": "https://github.com/Purple-Ninja/url-monster-react#readme",
+  "license": "MIT",
   "dependencies": {
     "gulp": "*",
     "gulp-watch": "*",
