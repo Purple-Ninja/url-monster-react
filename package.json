@@ -1,0 +1,14 @@
+{
+  "name": "urlmonster-build-tool",
+  "description": "build tool for urlmonster",
+  "version": "2.0.0",
+  "author": "Chienwen Chen <chienwen@chienwen.net>",
+  "dependencies": {
+    "gulp": "*",
+    "gulp-watch": "*",
+    "gulp-batch": "*",
+    "gulp-replace": "*",
+    "gulp-react": "*",
+    "gulp-json-editor": "*"
+  }
+}
